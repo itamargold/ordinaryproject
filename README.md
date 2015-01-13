@@ -1,3 +1,4 @@
 # ordinaryproject
 template of a project
-Following the GitHub tutorial
+Following GitHub tutorial
+Only file so far is the README file
